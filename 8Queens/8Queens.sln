@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{BE0A4C86-FC82-4F70-8ED6-D24C8B13E7BF}") = "8Queens", "8Queens\8Queens.javaproj", "{33951063-6611-4F34-8939-D991337FF661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33951063-6611-4F34-8939-D991337FF661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33951063-6611-4F34-8939-D991337FF661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33951063-6611-4F34-8939-D991337FF661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33951063-6611-4F34-8939-D991337FF661}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+c:\users\andrew\documents\visual studio 2015\Projects\DynamicList\DynamicList\bin\Debug\DynamicList.jar
+c:\users\andrew\documents\visual studio 2015\Projects\DynamicList\DynamicList\obj\Debug\DynamicList.class
+c:\users\andrew\documents\visual studio 2015\Projects\DynamicList\DynamicList\obj\Debug\DynamicNode.class
+c:\users\andrew\documents\visual studio 2015\Projects\DynamicList\DynamicList\obj\Debug\DynamicList.jar

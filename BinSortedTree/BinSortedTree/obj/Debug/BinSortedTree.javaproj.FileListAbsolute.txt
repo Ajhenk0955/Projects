@@ -1,0 +1,4 @@
+c:\users\andrew\documents\visual studio 2015\Projects\BinSortedTree\BinSortedTree\bin\Debug\BinSortedTree.jar
+c:\users\andrew\documents\visual studio 2015\Projects\BinSortedTree\BinSortedTree\obj\Debug\SortedTree.class
+c:\users\andrew\documents\visual studio 2015\Projects\BinSortedTree\BinSortedTree\obj\Debug\TreeNode.class
+c:\users\andrew\documents\visual studio 2015\Projects\BinSortedTree\BinSortedTree\obj\Debug\BinSortedTree.jar

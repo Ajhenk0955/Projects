@@ -1,0 +1,6 @@
+c:\users\andrew\documents\visual studio 2015\Projects\Stack-Based LRU\Stack-Based LRU\bin\Debug\Stack_Based_LRU.jar
+c:\users\andrew\documents\visual studio 2015\Projects\Stack-Based LRU\Stack-Based LRU\obj\Debug\MemorySpace.class
+c:\users\andrew\documents\visual studio 2015\Projects\Stack-Based LRU\Stack-Based LRU\obj\Debug\Node.class
+c:\users\andrew\documents\visual studio 2015\Projects\Stack-Based LRU\Stack-Based LRU\obj\Debug\PageReplacementLongTest.class
+c:\users\andrew\documents\visual studio 2015\Projects\Stack-Based LRU\Stack-Based LRU\obj\Debug\PageReplacementShortTest.class
+c:\users\andrew\documents\visual studio 2015\Projects\Stack-Based LRU\Stack-Based LRU\obj\Debug\Stack_Based_LRU.jar

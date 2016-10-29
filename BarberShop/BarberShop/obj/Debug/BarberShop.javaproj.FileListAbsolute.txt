@@ -1,0 +1,5 @@
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\BarberShop\BarberShop\bin\Debug\BarberShop.jar
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\BarberShop\BarberShop\obj\Debug\BarberShop.jar
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\BarberShop\BarberShop\obj\Debug\BarberShop.class
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\BarberShop\BarberShop\obj\Debug\Customer.class
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\BarberShop\BarberShop\obj\Debug\Testing.class

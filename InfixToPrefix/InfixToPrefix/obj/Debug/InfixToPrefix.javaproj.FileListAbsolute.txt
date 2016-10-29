@@ -1,0 +1,4 @@
+c:\users\andrew\documents\visual studio 2015\Projects\InfixToPrefix\InfixToPrefix\bin\Debug\InfixToPrefix.jar
+c:\users\andrew\documents\visual studio 2015\Projects\InfixToPrefix\InfixToPrefix\obj\Debug\CharStack.class
+c:\users\andrew\documents\visual studio 2015\Projects\InfixToPrefix\InfixToPrefix\obj\Debug\InfixToPrefix.class
+c:\users\andrew\documents\visual studio 2015\Projects\InfixToPrefix\InfixToPrefix\obj\Debug\InfixToPrefix.jar

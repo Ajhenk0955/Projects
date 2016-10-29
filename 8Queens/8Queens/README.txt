@@ -1,0 +1,1 @@
+﻿Solves the 8 queens problem :)

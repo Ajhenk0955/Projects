@@ -1,0 +1,4 @@
+c:\users\andrew\documents\visual studio 2015\Projects\8Queens\8Queens\bin\Debug\_8Queens.jar
+c:\users\andrew\documents\visual studio 2015\Projects\8Queens\8Queens\obj\Debug\JChessBoardPanel.class
+c:\users\andrew\documents\visual studio 2015\Projects\8Queens\8Queens\obj\Debug\JEightQueenFramePart.class
+c:\users\andrew\documents\visual studio 2015\Projects\8Queens\8Queens\obj\Debug\_8Queens.jar

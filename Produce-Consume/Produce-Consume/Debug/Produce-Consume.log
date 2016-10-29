@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\andrew\documents\visual studio 2015\projects\produce-consume\produce-consume\main.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Buffer.cpp
+  Generating Code...
+  Produce-Consume.vcxproj -> c:\users\andrew\documents\visual studio 2015\Projects\Produce-Consume\Debug\Produce-Consume.exe
+  Produce-Consume.vcxproj -> c:\users\andrew\documents\visual studio 2015\Projects\Produce-Consume\Debug\Produce-Consume.pdb (Full PDB)
